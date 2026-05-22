@@ -160,14 +160,14 @@
 
 <div align="left" style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.15) 0%, rgba(187, 154, 247, 0.15) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
 
-<h3 style="color: #7AA2F7; margin-top: 0;">🧠 EmpathAI</h3>
+<h3 style="color: #7AA2F7; margin-top: 0;">🧠 Mental Health Companion Chatbot</h3>
 
 <ul style="color: #c0caf5; line-height: 1.8;">
-  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversations.</li>
-  <li><strong>Stack:</strong> <code style="color: #89DDFF;">FastAPI</code> <code style="color: #89DDFF;">Python</code> <code style="color: #89DDFF;">face-api.js</code> <code style="color: #89DDFF;">JavaScript</code> <code style="color: #89DDFF;">Gemini Pro</code></li>
-  <li><strong>✨ Highlight:</strong> Local-first emotion detection with AI-powered responses—zero compromise on privacy.</li>
+  <li><strong>About:</strong> An intelligent conversational AI designed to provide mental health support, wellness guidance, and emotional intelligence assistance through natural language interactions.</li>
+  <li><strong>Stack:</strong> <code style="color: #89DDFF;">Python</code> <code style="color: #89DDFF;">NLP</code> <code style="color: #89DDFF;">Flask</code> <code style="color: #89DDFF;">AI/ML</code></li>
+  <li><strong>✨ Highlight:</strong> Empathetic AI-driven conversations with sentiment analysis and personalized wellness recommendations.</li>
   <li><strong>Links:</strong>
-    <a href="https://github.com/Sudarsan-K2/EmpathAI" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
+    <a href="https://github.com/Sudarsan-K2/Mental-Health-Companion-Chatbot" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
   </li>
 </ul>
 
@@ -178,14 +178,14 @@
 
 <div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
 
-<h3 style="color: #BB9AF7; margin-top: 0;">📊 Data Analytics Dashboard</h3>
+<h3 style="color: #BB9AF7; margin-top: 0;">🧠 EmpathAI</h3>
 
 <ul style="color: #c0caf5; line-height: 1.8;">
-  <li><strong>About:</strong> A comprehensive analytics platform for real-time insights, custom reporting, and data visualization—empowering businesses with actionable intelligence.</li>
-  <li><strong>Stack:</strong> <code style="color: #89DDFF;">React</code> <code style="color: #89DDFF;">Node.js</code> <code style="color: #89DDFF;">MySQL</code> <code style="color: #89DDFF;">Power BI</code></li>
-  <li><strong>✨ Highlight:</strong> Interactive dashboards with real-time data processing and multi-dimensional analytics.</li>
+  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversations.</li>
+  <li><strong>Stack:</strong> <code style="color: #89DDFF;">FastAPI</code> <code style="color: #89DDFF;">Python</code> <code style="color: #89DDFF;">face-api.js</code> <code style="color: #89DDFF;">JavaScript</code> <code style="color: #89DDFF;">Gemini Pro</code></li>
+  <li><strong>✨ Highlight:</strong> Local-first emotion detection with AI-powered responses—zero compromise on privacy.</li>
   <li><strong>Links:</strong>
-    <a href="#" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Coming Soon</a>
+    <a href="https://github.com/Sudarsan-K2/EmpathAI" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
   </li>
 </ul>
 
