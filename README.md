@@ -206,12 +206,12 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true&cache_seconds=86400"
     alt="GitHub Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarsan-K2&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarsan-K2&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8&cache_seconds=86400"
     alt="Top Languages"
   />
 </p>
@@ -229,7 +229,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarsan-K2&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&line=7aa2f7&point=bb9af7"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarsan-K2&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&line=7aa2f7&point=bb9af7&cache_seconds=86400"
     alt="Activity Graph"
   />
 </p>
