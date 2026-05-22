@@ -1,48 +1,195 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Building+scalable+systems;%F0%9F%93%8A+Data+Driven+Solutions" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%A7%A0+AI%2FML+Enthusiast;%F0%9F%9A%80+Building+Scale;%F0%9F%92%A1+Data-Driven+Systems" alt="Typing animation" />
 
 <br />
 
-### Sudarsan
+### 🌟 Sudarsan
 
-**Full Stack Developer · Data Analytics Enthusiast**
+**Full Stack Developer · Data Analytics Enthusiast · AI/ML Explorer**
 
 <br />
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://img.shields.io/badge/💻-Code-7AA2F7?style=flat-square" alt="Code" />
+  <img src="https://img.shields.io/badge/📊-Data-BB9AF7?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/🚀-Performance-89DDFF?style=flat-square" alt="Performance" />
+</div>
 
 </div>
 
 <p align="center">
-  I build modern full-stack applications and data-driven systems focused on performance, scalability, and real-world usability.
+  <em>I build modern full-stack applications and data-driven systems focused on performance, scalability, and real-world usability.</em>
   <br />
-  From responsive web experiences to optimized APIs and meaningful analytics—I ship solutions that are practical, fast, and impactful.
+  <strong>From responsive web experiences to optimized APIs and meaningful analytics—I ship solutions that are practical, fast, and impactful.</strong>
 </p>
 
 <br />
 
 ---
 
-## Current Focus & Core Philosophy
+## 🎯 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <p>
+          <strong>🎨 Philosophy:</strong> Most applications today focus only on appearance—I focus on <strong>functionality, speed, and user experience</strong>.
+        </p>
+        <p>
+          <strong>🧩 My Craft:</strong> I design seamless frontends with smooth interactions, architect efficient backend systems, and turn raw data into meaningful insights. Pragmatic engineering with an obsession for performance and real-world impact.
+        </p>
+        <p>
+          <strong>🌱 Always Evolving:</strong> Beyond shipping code, I explore emerging technologies like AI/ML, affective computing, and competitive gaming—continuously leveling up and staying ahead of the curve.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+## 🚀 Current Focus & Core Philosophy
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.1) 0%, rgba(187, 154, 247, 0.1) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); transition: all 0.3s ease;">
+          <h3 style="color: #7AA2F7; margin-top: 0; font-size: 1.3em;">🧠 Mastering</h3>
+          <p style="color: #89DDFF;"><strong>Data Analytics, AI/ML & Scalable Systems</strong></p>
+          <p style="color: #c0caf5; font-size: 0.95em;">Deepening skills in <strong>React</strong>, <strong>FastAPI</strong>, <strong>Python</strong>, and <strong>Data Visualization (Power BI)</strong>—exploring intelligent interfaces and affective computing.</p>
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.1) 0%, rgba(137, 221, 255, 0.1) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); transition: all 0.3s ease;">
+          <h3 style="color: #BB9AF7; margin-top: 0; font-size: 1.3em;">💼 I Deliver</h3>
+          <p style="color: #89DDFF;"><strong>Functionality, Speed & UX Excellence</strong></p>
+          <p style="color: #c0caf5; font-size: 0.95em;">Seamless frontends, efficient backends, and data-driven insights. Pragmatic engineering with obsessive attention to performance and real-world usability.</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Frontend & Backend
+
+<p align="center">
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 8px; transition: all 0.3s; box-shadow: 0 0 0 rgba(97, 218, 251, 0);" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+</p>
+
+### 🔤 Languages & Data
+
+<p align="center">
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+</p>
+
+### 🔧 DevOps & Tools
+
+<p align="center">
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+  <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" style="border-radius: 8px; transition: all 0.3s;" />
+  </a>
+</p>
+
+<br />
+
+---
+
+## ⭐ Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-> ### 🧠 What I'm currently mastering
->
-> **Data analytics, AI/ML foundations, and scalable full-stack systems**
->
-> Deepening skills in **React**, **FastAPI**, **Python**, and **data visualization** (Power BI)—while exploring emerging tech in affective computing and intelligent interfaces.
+<div align="left" style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.15) 0%, rgba(187, 154, 247, 0.15) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
+
+<h3 style="color: #7AA2F7; margin-top: 0;">🧠 EmpathAI</h3>
+
+<ul style="color: #c0caf5; line-height: 1.8;">
+  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversations.</li>
+  <li><strong>Stack:</strong> <code style="color: #89DDFF;">FastAPI</code> · <code style="color: #89DDFF;">Python</code> · <code style="color: #89DDFF;">face-api.js</code> · <code style="color: #89DDFF;">JavaScript</code> · <code style="color: #89DDFF;">Gemini Pro</code></li>
+  <li><strong>✨ Highlight:</strong> Local-first emotion detection with AI-powered responses—zero compromise on privacy.</li>
+  <li><strong>Links:</strong>
+    <a href="https://github.com/Sudarsan-K2/EmpathAI" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
+  </li>
+</ul>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-> ### 💼 What I bring to the table
->
-> **Functionality, speed, and user experience—not just appearance**
->
-> I design seamless frontends, efficient backend architectures, and turn raw data into insights. Pragmatic engineering with an eye for performance and real-world impact.
+<div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
+
+<h3 style="color: #BB9AF7; margin-top: 0;">📊 Data Analytics Dashboard</h3>
+
+<ul style="color: #c0caf5; line-height: 1.8;">
+  <li><strong>About:</strong> A comprehensive analytics platform for real-time insights, custom reporting, and data visualization—empowering businesses with actionable intelligence.</li>
+  <li><strong>Stack:</strong> <code style="color: #89DDFF;">React</code> · <code style="color: #89DDFF;">Node.js</code> · <code style="color: #89DDFF;">MySQL</code> · <code style="color: #89DDFF;">Power BI</code></li>
+  <li><strong>✨ Highlight:</strong> Interactive dashboards with real-time data processing and multi-dimensional analytics.</li>
+  <li><strong>Links:</strong>
+    <a href="#" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Coming Soon</a>
+  </li>
+</ul>
+
+</div>
 
 </td>
 </tr>
@@ -52,113 +199,14 @@
 
 ---
 
-## About Me
+## 📊 GitHub Metrics & Activity
 
-<p align="center">
-  Most applications today focus only on appearance—I focus on <strong>functionality, speed, and user experience</strong>.
-  <br /><br />
-  Beyond coding, I explore emerging technologies, competitive gaming, and cinema—continuously leveling up in
-  <strong>AI</strong>, <strong>Machine Learning</strong>, and scalable software systems.
-</p>
-
-<br />
-
----
-
-## Tech Stack & Tools
-
-### Frontend & Backend
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-### Languages & Data
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
-### DevOps & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
-</p>
-
-<br />
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<div align="left">
-
-<h3>🧠 EmpathAI</h3>
-
-<ul>
-  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversational responses.</li>
-  <li><strong>Stack:</strong> FastAPI · Python · face-api.js · JavaScript · Gemini Pro</li>
-  <li><strong>Highlight:</strong> Local-first emotion detection with AI-powered, context-aware responses—no compromise on privacy.</li>
-  <li><strong>Links:</strong>
-    <a href="https://github.com/Sudarsan-K2/EmpathAI">Repository</a>
-  </li>
-</ul>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="left">
-
-<h3>📊 [Your Next Project]</h3>
-
-<ul>
-  <li><strong>About:</strong> [Brief description — e.g., analytics dashboard, full-stack app, or data pipeline]</li>
-  <li><strong>Stack:</strong> React · Node.js · MySQL · Power BI</li>
-  <li><strong>Highlight:</strong> [One-line impact metric or unique value]</li>
-  <li><strong>Links:</strong>
-    <a href="https://github.com/Sudarsan-K2/[repo-name]">Repository</a> ·
-    <a href="#">Live Demo</a>
-  </li>
-</ul>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br />
-
----
-
-## GitHub Metrics & Activity
-
-### 📊 Overview Statistics
+### 📈 Overview Statistics
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
   />
   <img
@@ -177,7 +225,7 @@
   />
 </p>
 
-### 📈 Contributions Graph
+### 📊 Contributions Graph
 
 <p align="center">
   <img
@@ -203,40 +251,62 @@
 
 ## 🎯 Quick Stats
 
-<table align="center">
-  <tr>
-    <td align="center"><b>🚀 Projects</b><br/>Active Development</td>
-    <td align="center"><b>💡 Focus</b><br/>Full-Stack & AI/ML</td>
-    <td align="center"><b>🎓 Learning</b><br/>Advanced Data Analytics</td>
-    <td align="center"><b>⚡ Performance</b><br/>Speed & Scalability</td>
-  </tr>
-</table>
+<div align="center">
+  <table style="border-collapse: collapse;">
+    <tr>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(122, 162, 247, 0.2) 0%, rgba(122, 162, 247, 0.1) 100%); border: 2px solid #7AA2F7; border-radius: 8px; margin: 5px;">
+        <span style="font-size: 2em;">🚀</span>
+        <br/><b style="color: #7AA2F7;">Projects</b><br/>
+        <span style="color: #89DDFF;">Active Development</span>
+      </td>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(187, 154, 247, 0.2) 0%, rgba(187, 154, 247, 0.1) 100%); border: 2px solid #BB9AF7; border-radius: 8px; margin: 5px;">
+        <span style="font-size: 2em;">💡</span>
+        <br/><b style="color: #BB9AF7;">Focus</b><br/>
+        <span style="color: #89DDFF;">Full-Stack & AI/ML</span>
+      </td>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(137, 221, 255, 0.2) 0%, rgba(137, 221, 255, 0.1) 100%); border: 2px solid #89DDFF; border-radius: 8px; margin: 5px;">
+        <span style="font-size: 2em;">🎓</span>
+        <br/><b style="color: #89DDFF;">Learning</b><br/>
+        <span style="color: #89DDFF;">Advanced Analytics</span>
+      </td>
+      <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(179, 98, 255, 0.2) 0%, rgba(179, 98, 255, 0.1) 100%); border: 2px solid #b362ff; border-radius: 8px; margin: 5px;">
+        <span style="font-size: 2em;">⚡</span>
+        <br/><b style="color: #b362ff;">Performance</b><br/>
+        <span style="color: #89DDFF;">Speed & Scalability</span>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
 ---
 
-## Connect with Me
+## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sudarsank1112" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/sudarsank1112" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.2); transition: all 0.3s ease;" />
   </a>
-  <a href="https://portfolio-sudarsan.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://portfolio-sudarsan.com" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.2); transition: all 0.3s ease;" />
   </a>
-  <a href="https://twitter.com/sudarsan_k2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
+  <a href="mailto:sudarsan.renu@gmail.com" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.2); transition: all 0.3s ease;" />
   </a>
-  <a href="mailto:sudarsan@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
+
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sudarsan-K2&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <sub>Thanks for stopping by — let's build something great together.</sub>
-</p>
+<div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, rgba(122, 162, 247, 0.1) 0%, rgba(187, 154, 247, 0.1) 100%); border-radius: 12px; border: 2px solid rgba(122, 162, 247, 0.3);">
+  <p style="font-size: 1.1em; color: #89DDFF; margin: 0;">
+    <strong>✨ Thanks for stopping by — let's build something great together.</strong>
+  </p>
+  <p style="color: #7AA2F7; margin: 10px 0 0 0; font-size: 0.9em;">
+    Feel free to reach out, collaborate, or just chat about tech, AI, and innovation!
+  </p>
+</div>
