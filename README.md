@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9A%80+Building+Data-Driven+Solutions;%E2%98%95+Fueled+by+code" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9B%A0%EF%B8%8F+Problem+Solver;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+AI%2FML+Enthusiast;%F0%9F%9A%80+Performance+Driven" alt="Typing SVG" />
 
 <br />
 
@@ -114,11 +114,11 @@
 <h3>🧠 EmpathAI</h3>
 
 <ul>
-  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversational support.</li>
+  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversational AI.</li>
   <li><strong>Stack:</strong> FastAPI · Python · face-api.js · JavaScript · Gemini Pro</li>
   <li><strong>Highlight:</strong> Local-first emotion detection with AI-powered, context-aware responses—no compromise on privacy.</li>
   <li><strong>Links:</strong>
-    <a href="https://github.com/[Insert Username]/EmpathAI">Repository</a>
+    <a href="https://github.com/Sudarsan-K2/EmpathAI">Repository</a>
   </li>
 </ul>
 
@@ -136,7 +136,7 @@
   <li><strong>Stack:</strong> React · Node.js · MySQL · Power BI</li>
   <li><strong>Highlight:</strong> [One-line impact metric or unique value]</li>
   <li><strong>Links:</strong>
-    <a href="https://github.com/[Insert Username]/[repo-name]">Repository</a> ·
+    <a href="https://github.com/Sudarsan-K2/[repo-name]">Repository</a> ·
     <a href="#">Live Demo</a>
   </li>
 </ul>
@@ -151,27 +151,66 @@
 
 ---
 
-## GitHub Metrics
+## GitHub Metrics & Activity
+
+### 📊 Overview Statistics
 
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=[Insert Username]&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&rank_icon=percentile"
+    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true"
     alt="GitHub Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Insert Username]&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudarsan-K2&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&text_color=c0caf5&langs_count=8"
     alt="Top Languages"
   />
 </p>
 
+### 🔥 Contribution Streak
+
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=[Insert Username]&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarsan-K2&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5"
     alt="GitHub Streak"
   />
 </p>
+
+### 📈 Contributions Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarsan-K2&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&line=7aa2f7&point=bb9af7"
+    alt="Activity Graph"
+  />
+</p>
+
+### 🏆 Additional Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudarsan-K2&theme=tokyonight&hide_border=true" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudarsan-K2&theme=tokyonight&hide_border=true" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudarsan-K2&theme=tokyonight&hide_border=true" alt="Most Commit Language" />
+</p>
+
+<br />
+
+---
+
+## 🎯 Quick Stats
+
+<table align="center">
+  <tr>
+    <td align="center"><b>🚀 Projects</b><br/>Active Development</td>
+    <td align="center"><b>💡 Focus</b><br/>Full-Stack & AI/ML</td>
+    <td align="center"><b>🎓 Learning</b><br/>Advanced Data Analytics</td>
+    <td align="center"><b>⚡ Performance</b><br/>Speed & Scalability</td>
+  </tr>
+</table>
 
 <br />
 
@@ -180,22 +219,22 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-profile]" target="_blank">
+  <a href="https://linkedin.com/in/sudarsan-k2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://[your-portfolio].com" target="_blank">
+  <a href="https://portfolio-sudarsan.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://twitter.com/[your-handle]" target="_blank">
+  <a href="https://twitter.com/sudarsan_k2" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter / X" />
   </a>
-  <a href="mailto:[your-email]@example.com" target="_blank">
+  <a href="mailto:sudarsan@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Insert Username]&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Sudarsan-K2&label=Profile%20views&color=7aa2f7&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
