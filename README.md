@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=600&lines=%E2%9A%A1+%5BYour+Role%2FTitle%5D;%F0%9F%9A%80+Building+%5BYour+Focus%5D;%E2%98%95+Fueled+by+code" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9A%80+Building+Data-Driven+Solutions;%E2%98%95+Fueled+by+code" alt="Typing animation" />
 
 <br />
 
-### [Insert Name]
+### Sudarsan
 
-**[e.g., Full Stack Developer · Backend Engineer]**
+**Full Stack Developer · Data Analytics Enthusiast**
 
 <br />
 
 </div>
 
 <p align="center">
-  I craft thoughtful, scalable software with a focus on clarity, performance, and user experience.
+  I build modern full-stack applications and data-driven systems focused on performance, scalability, and real-world usability.
   <br />
-  Currently deepening my expertise in <strong>[Your Focus, e.g., Cloud Native Apps & Microservices]</strong> while shipping products that matter.
+  From responsive web experiences to optimized APIs and meaningful analytics—I ship solutions that are practical, fast, and impactful.
 </p>
 
 <br />
@@ -31,18 +31,18 @@
 
 > ### 🧠 What I'm currently mastering
 >
-> **[Insert current learning focus]**
+> **Data analytics, AI/ML foundations, and scalable full-stack systems**
 >
-> Exploring **cloud-native architecture**, **microservices**, and modern **app development** patterns—shipping iteratively and learning in production.
+> Deepening skills in **React**, **FastAPI**, **Python**, and **data visualization** (Power BI)—while exploring emerging tech in affective computing and intelligent interfaces.
 
 </td>
 <td width="50%" valign="top">
 
 > ### 💼 What I bring to the table
 >
-> **[Insert engineering mindset or strengths]**
+> **Functionality, speed, and user experience—not just appearance**
 >
-> Pragmatic problem-solving, clean APIs, and full-stack ownership—from design through deployment—with an emphasis on reliability and craft.
+> I design seamless frontends, efficient backend architectures, and turn raw data into insights. Pragmatic engineering with an eye for performance and real-world impact.
 
 </td>
 </tr>
@@ -52,43 +52,51 @@
 
 ---
 
-## Tech Stack & Tools
+## About Me
 
 <p align="center">
-  <em>Primary stack — customize badges to match your toolkit</em>
+  Most applications today focus only on appearance—I focus on <strong>functionality, speed, and user experience</strong>.
+  <br /><br />
+  Beyond coding, I explore emerging technologies, competitive gaming, and cinema—continuously leveling up in
+  <strong>AI</strong>, <strong>Machine Learning</strong>, and scalable software systems.
 </p>
+
+<br />
+
+---
+
+## Tech Stack & Tools
 
 ### Frontend & Backend
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### Languages & Data
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 
 ### DevOps & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### Databases & Cloud
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
 </p>
 
 <br />
@@ -97,24 +105,20 @@
 
 ## Featured Projects
 
-<p align="center">
-  <em>Selected work — replace with your live repos and descriptions</em>
-</p>
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <div align="left">
 
-<h3>🚀 Project One — [Project Name]</h3>
+<h3>🧠 EmpathAI</h3>
 
 <ul>
-  <li><strong>Stack:</strong> TypeScript · React · Node.js · PostgreSQL</li>
-  <li><strong>Highlight:</strong> [One-line impact — e.g., real-time dashboard with sub-100ms updates]</li>
+  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversational support.</li>
+  <li><strong>Stack:</strong> FastAPI · Python · face-api.js · JavaScript · Gemini Pro</li>
+  <li><strong>Highlight:</strong> Local-first emotion detection with AI-powered, context-aware responses—no compromise on privacy.</li>
   <li><strong>Links:</strong>
-    <a href="https://github.com/[Insert Username]/[repo-name]">Repository</a> ·
-    <a href="https://your-demo-url.com">Live Demo</a>
+    <a href="https://github.com/[Insert Username]/EmpathAI">Repository</a>
   </li>
 </ul>
 
@@ -125,14 +129,15 @@
 
 <div align="left">
 
-<h3>⚡ Project Two — [Project Name]</h3>
+<h3>📊 [Your Next Project]</h3>
 
 <ul>
-  <li><strong>Stack:</strong> Python · Go · Docker · Kubernetes</li>
-  <li><strong>Highlight:</strong> [One-line impact — e.g., event-driven microservice handling 10k+ req/min]</li>
+  <li><strong>About:</strong> [Brief description — e.g., analytics dashboard, full-stack app, or data pipeline]</li>
+  <li><strong>Stack:</strong> React · Node.js · MySQL · Power BI</li>
+  <li><strong>Highlight:</strong> [One-line impact metric or unique value]</li>
   <li><strong>Links:</strong>
     <a href="https://github.com/[Insert Username]/[repo-name]">Repository</a> ·
-    <a href="https://your-demo-url.com">Live Demo</a>
+    <a href="#">Live Demo</a>
   </li>
 </ul>
 
