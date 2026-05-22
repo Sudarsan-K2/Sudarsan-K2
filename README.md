@@ -1,51 +1,75 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Building+Scalable+Systems;Data+Analytics;AI+ML+Learning" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%A7%A0+AI%2FML+Enthusiast;%F0%9F%9A%80+Building+Scale;%F0%9F%92%A1+Data+Driven+Systems" alt="Typing animation" />
 
 <br />
 
-### Sudarsan
+### 🌟 Sudarsan
 
-**Full Stack Developer | Data Analytics Enthusiast**
+**Full Stack Developer · Data Analytics Enthusiast · AI/ML Explorer**
 
 <br />
 
 <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Code-7AA2F7?style=flat-square" alt="Code" />
-  <img src="https://img.shields.io/badge/Data-BB9AF7?style=flat-square" alt="Data" />
-  <img src="https://img.shields.io/badge/Performance-89DDFF?style=flat-square" alt="Performance" />
+  <img src="https://img.shields.io/badge/💻-Code-7AA2F7?style=flat-square" alt="Code" />
+  <img src="https://img.shields.io/badge/📊-Data-BB9AF7?style=flat-square" alt="Data" />
+  <img src="https://img.shields.io/badge/🚀-Performance-89DDFF?style=flat-square" alt="Performance" />
 </div>
 
 </div>
 
 <p align="center">
-  <em>Building modern full stack applications and data driven systems with focus on performance and scalability</em>
+  <em>I build modern full-stack applications and data-driven systems focused on performance, scalability, and real-world usability.</em>
   <br />
-  <strong>From responsive frontends to optimized APIs and meaningful analytics—shipping practical, fast solutions</strong>
+  <strong>From responsive web experiences to optimized APIs and meaningful analytics—I ship solutions that are practical, fast, and impactful.</strong>
 </p>
 
 <br />
 
 ---
 
-## Current Focus & Core Values
+## 🎯 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <p>
+          <strong>🎨 Philosophy:</strong> Most applications today focus only on appearance—I focus on <strong>functionality, speed, and user experience</strong>.
+        </p>
+        <p>
+          <strong>🧩 My Craft:</strong> I design seamless frontends with smooth interactions, architect efficient backend systems, and turn raw data into meaningful insights. Pragmatic engineering with an obsession for performance and real-world impact.
+        </p>
+        <p>
+          <strong>🌱 Always Evolving:</strong> Beyond shipping code, I explore emerging technologies like AI/ML, affective computing, and competitive gaming—continuously leveling up and staying ahead of the curve.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+---
+
+## 🚀 Current Focus & Core Philosophy
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.15) 0%, rgba(187, 154, 247, 0.15) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); transition: all 0.3s ease;">
-          <h3 style="color: #7AA2F7; margin-top: 0; font-size: 1.3em;">Learning</h3>
-          <p style="color: #89DDFF;"><strong>Data Analytics, AI/ML and Scalable Systems</strong></p>
-          <p style="color: #c0caf5; font-size: 0.95em;">Strengthening skills in React, FastAPI, Python and data visualization with Power BI</p>
+        <div style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.1) 0%, rgba(187, 154, 247, 0.1) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); transition: all 0.3s ease;">
+          <h3 style="color: #7AA2F7; margin-top: 0; font-size: 1.3em;">🧠 Mastering</h3>
+          <p style="color: #89DDFF;"><strong>Data Analytics, AI/ML & Scalable Systems</strong></p>
+          <p style="color: #c0caf5; font-size: 0.95em;">Deepening skills in <strong>React</strong>, <strong>FastAPI</strong>, <strong>Python</strong>, and <strong>Data Visualization (Power BI)</strong>—exploring intelligent interfaces and affective computing.</p>
         </div>
       </td>
       <td width="50%" valign="top">
-        <div style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); transition: all 0.3s ease;">
-          <h3 style="color: #BB9AF7; margin-top: 0; font-size: 1.3em;">Building</h3>
-          <p style="color: #89DDFF;"><strong>Functional, Fast, Scalable Solutions</strong></p>
-          <p style="color: #c0caf5; font-size: 0.95em;">Creating seamless frontends, efficient backends and turning data into insights</p>
+        <div style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.1) 0%, rgba(137, 221, 255, 0.1) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px); transition: all 0.3s ease;">
+          <h3 style="color: #BB9AF7; margin-top: 0; font-size: 1.3em;">💼 I Deliver</h3>
+          <p style="color: #89DDFF;"><strong>Functionality, Speed & UX Excellence</strong></p>
+          <p style="color: #c0caf5; font-size: 0.95em;">Seamless frontends, efficient backends, and data-driven insights. Pragmatic engineering with obsessive attention to performance and real-world usability.</p>
         </div>
       </td>
     </tr>
@@ -56,13 +80,13 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Frontend & Backend
+### 💻 Frontend & Backend
 
 <p align="center">
   <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 8px; transition: all 0.3s;" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border-radius: 8px; transition: all 0.3s; box-shadow: 0 0 0 rgba(97, 218, 251, 0);" />
   </a>
   <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px; transition: all 0.3s;" />
@@ -87,7 +111,7 @@
   </a>
 </p>
 
-### Languages & Data
+### 🔤 Languages & Data
 
 <p align="center">
   <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
@@ -107,7 +131,7 @@
   </a>
 </p>
 
-### Tools & DevOps
+### 🔧 DevOps & Tools
 
 <p align="center">
   <a href="#" style="display: inline-block; margin: 5px; transition: transform 0.2s;">
@@ -128,7 +152,7 @@
 
 ---
 
-## Featured Projects
+## ⭐ Featured Projects
 
 <table>
 <tr>
@@ -136,14 +160,14 @@
 
 <div align="left" style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.15) 0%, rgba(187, 154, 247, 0.15) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
 
-<h3 style="color: #7AA2F7; margin-top: 0;">EmpathAI</h3>
+<h3 style="color: #7AA2F7; margin-top: 0;">🧠 EmpathAI</h3>
 
 <ul style="color: #c0caf5; line-height: 1.8;">
-  <li><strong>Description:</strong> Privacy first multimodal affective computing interface with real time facial expression detection and Google Gemini integration</li>
-  <li><strong>Tech:</strong> <code style="color: #89DDFF;">FastAPI</code> <code style="color: #89DDFF;">Python</code> <code style="color: #89DDFF;">face api.js</code> <code style="color: #89DDFF;">JavaScript</code> <code style="color: #89DDFF;">Gemini Pro</code></li>
-  <li><strong>Highlight:</strong> Local first emotion detection with AI powered responses, no privacy compromise</li>
-  <li><strong>Link:</strong>
-    <a href="https://github.com/Sudarsan-K2/EmpathAI" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF;">Repository</a>
+  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversations.</li>
+  <li><strong>Stack:</strong> <code style="color: #89DDFF;">FastAPI</code> <code style="color: #89DDFF;">Python</code> <code style="color: #89DDFF;">face-api.js</code> <code style="color: #89DDFF;">JavaScript</code> <code style="color: #89DDFF;">Gemini Pro</code></li>
+  <li><strong>✨ Highlight:</strong> Local-first emotion detection with AI-powered responses—zero compromise on privacy.</li>
+  <li><strong>Links:</strong>
+    <a href="https://github.com/Sudarsan-K2/EmpathAI" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
   </li>
 </ul>
 
@@ -154,14 +178,14 @@
 
 <div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
 
-<h3 style="color: #BB9AF7; margin-top: 0;">Data Analytics Dashboard</h3>
+<h3 style="color: #BB9AF7; margin-top: 0;">📊 Data Analytics Dashboard</h3>
 
 <ul style="color: #c0caf5; line-height: 1.8;">
-  <li><strong>Description:</strong> Comprehensive analytics platform for real time insights, custom reporting and data visualization</li>
-  <li><strong>Tech:</strong> <code style="color: #89DDFF;">React</code> <code style="color: #89DDFF;">Node.js</code> <code style="color: #89DDFF;">MySQL</code> <code style="color: #89DDFF;">Power BI</code></li>
-  <li><strong>Highlight:</strong> Interactive dashboards with real time data processing and multi dimensional analytics</li>
-  <li><strong>Link:</strong>
-    <a href="#" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF;">Coming Soon</a>
+  <li><strong>About:</strong> A comprehensive analytics platform for real-time insights, custom reporting, and data visualization—empowering businesses with actionable intelligence.</li>
+  <li><strong>Stack:</strong> <code style="color: #89DDFF;">React</code> <code style="color: #89DDFF;">Node.js</code> <code style="color: #89DDFF;">MySQL</code> <code style="color: #89DDFF;">Power BI</code></li>
+  <li><strong>✨ Highlight:</strong> Interactive dashboards with real-time data processing and multi-dimensional analytics.</li>
+  <li><strong>Links:</strong>
+    <a href="#" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Coming Soon</a>
   </li>
 </ul>
 
@@ -175,30 +199,63 @@
 
 ---
 
-## Quick Stats
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Sudarsan-K2&theme=tokyonight&hide_border=true&background=1a1b27&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5"
+    alt="GitHub Streak"
+  />
+</p>
+
+### 📊 Contributions Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sudarsan-K2&theme=tokyo-night&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&line=7aa2f7&point=bb9af7"
+    alt="Activity Graph"
+  />
+</p>
+
+### 🏆 Additional Insights
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudarsan-K2&theme=tokyonight&hide_border=true" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudarsan-K2&theme=tokyonight&hide_border=true" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudarsan-K2&theme=tokyonight&hide_border=true" alt="Most Commit Language" />
+</p>
+
+<br />
+
+---
+
+## 🎯 Quick Stats
 
 <div align="center">
   <table style="border-collapse: collapse;">
     <tr>
       <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(122, 162, 247, 0.2) 0%, rgba(122, 162, 247, 0.1) 100%); border: 2px solid #7AA2F7; border-radius: 8px; margin: 5px;">
-        <span style="font-size: 2em;">📚</span>
-        <br/><b style="color: #7AA2F7;">Focus</b><br/>
-        <span style="color: #89DDFF;">Full Stack Development</span>
+        <span style="font-size: 2em;">🚀</span>
+        <br/><b style="color: #7AA2F7;">Projects</b><br/>
+        <span style="color: #89DDFF;">Active Development</span>
       </td>
       <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(187, 154, 247, 0.2) 0%, rgba(187, 154, 247, 0.1) 100%); border: 2px solid #BB9AF7; border-radius: 8px; margin: 5px;">
-        <span style="font-size: 2em;">🎯</span>
-        <br/><b style="color: #BB9AF7;">Interest</b><br/>
-        <span style="color: #89DDFF;">Data & AI</span>
+        <span style="font-size: 2em;">💡</span>
+        <br/><b style="color: #BB9AF7;">Focus</b><br/>
+        <span style="color: #89DDFF;">Full-Stack & AI/ML</span>
       </td>
       <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(137, 221, 255, 0.2) 0%, rgba(137, 221, 255, 0.1) 100%); border: 2px solid #89DDFF; border-radius: 8px; margin: 5px;">
-        <span style="font-size: 2em;">💻</span>
-        <br/><b style="color: #89DDFF;">Status</b><br/>
-        <span style="color: #89DDFF;">Active Learning</span>
+        <span style="font-size: 2em;">🎓</span>
+        <br/><b style="color: #89DDFF;">Learning</b><br/>
+        <span style="color: #89DDFF;">Advanced Analytics</span>
       </td>
       <td align="center" style="padding: 20px; background: linear-gradient(135deg, rgba(179, 98, 255, 0.2) 0%, rgba(179, 98, 255, 0.1) 100%); border: 2px solid #b362ff; border-radius: 8px; margin: 5px;">
-        <span style="font-size: 2em;">🚀</span>
-        <br/><b style="color: #b362ff;">Goal</b><br/>
-        <span style="color: #89DDFF;">Build Scalable Systems</span>
+        <span style="font-size: 2em;">⚡</span>
+        <br/><b style="color: #b362ff;">Performance</b><br/>
+        <span style="color: #89DDFF;">Speed & Scalability</span>
       </td>
     </tr>
   </table>
@@ -208,20 +265,20 @@
 
 ---
 
-## Connect
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sudarsank1112" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.2);" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.2); transition: all 0.3s ease;" />
   </a>
   <a href="https://portfolio-sudarsan.com" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.2);" />
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.2); transition: all 0.3s ease;" />
   </a>
   <a href="https://sudarsan-resume.com" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=read%20the%20docs&logoColor=white" alt="Resume" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(55, 118, 171, 0.2);" />
+    <img src="https://img.shields.io/badge/Resume-3776AB?style=for-the-badge&logo=read%20the%20docs&logoColor=white" alt="Resume" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(55, 118, 171, 0.2); transition: all 0.3s ease;" />
   </a>
   <a href="mailto:sudarsan.renu@gmail.com" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.2);" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(234, 67, 53, 0.2); transition: all 0.3s ease;" />
   </a>
 </div>
 
@@ -232,10 +289,10 @@
 </p>
 
 <div align="center" style="margin-top: 30px; padding: 20px; background: linear-gradient(135deg, rgba(122, 162, 247, 0.1) 0%, rgba(187, 154, 247, 0.1) 100%); border-radius: 12px; border: 2px solid rgba(122, 162, 247, 0.3);">
-  <p style="font-size: 0.95em; color: #c0caf5; margin: 0;">
-    Student | Developer | Learner
+  <p style="font-size: 1.1em; color: #89DDFF; margin: 0;">
+    <strong>✨ Thanks for stopping by—let's build something great together.</strong>
   </p>
-  <p style="color: #89DDFF; margin: 5px 0; font-size: 0.9em;">
-    Building projects and growing skills in full stack development and data analytics
+  <p style="color: #7AA2F7; margin: 10px 0 0 0; font-size: 0.9em;">
+    Feel free to reach out, collaborate, or just chat about tech, AI, and innovation!
   </p>
 </div>
