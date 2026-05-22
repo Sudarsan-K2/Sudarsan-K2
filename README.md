@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%9B%A0%EF%B8%8F+Problem+Solver;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+AI%2FML+Enthusiast;%F0%9F%9A%80+Performance+Driven" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=650&lines=%E2%9A%A1+Full+Stack+Developer;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Building+scalable+systems;%F0%9F%93%8A+Data+Driven+Solutions" alt="Typing animation" />
 
 <br />
 
@@ -114,7 +114,7 @@
 <h3>🧠 EmpathAI</h3>
 
 <ul>
-  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversational AI.</li>
+  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversational responses.</li>
   <li><strong>Stack:</strong> FastAPI · Python · face-api.js · JavaScript · Gemini Pro</li>
   <li><strong>Highlight:</strong> Local-first emotion detection with AI-powered, context-aware responses—no compromise on privacy.</li>
   <li><strong>Links:</strong>
@@ -158,7 +158,7 @@
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=Sudarsan-K2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&count_private=true"
     alt="GitHub Stats"
   />
   <img
@@ -219,7 +219,7 @@
 ## Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/sudarsan-k2" target="_blank">
+  <a href="https://www.linkedin.com/in/sudarsank1112" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://portfolio-sudarsan.com" target="_blank">
