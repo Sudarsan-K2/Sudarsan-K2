@@ -36,13 +36,13 @@
     <tr>
       <td width="100%">
         <p>
-          <strong>🎨 Philosophy:</strong> Most applications today focus only on appearance—I focus on <strong>functionality, speed, and user experience</strong>.
+          <strong>🎨 Philosophy:</strong> Most applications today focus only on appearance,I focus on <strong>functionality, speed, and user experience</strong>.
         </p>
         <p>
           <strong>🧩 My Craft:</strong> I design seamless frontends with smooth interactions, architect efficient backend systems, and turn raw data into meaningful insights. Pragmatic engineering with an obsession for performance and real-world impact.
         </p>
         <p>
-          <strong>🌱 Always Evolving:</strong> Beyond shipping code, I explore emerging technologies like AI/ML, affective computing, and competitive gaming—continuously leveling up and staying ahead of the curve.
+          <strong>🌱 Always Evolving:</strong> Beyond shipping code, I explore emerging technologies like AI/ML, and Frameworks ,continuously leveling up and staying ahead of the curve.
         </p>
       </td>
     </tr>
