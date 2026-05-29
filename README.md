@@ -174,35 +174,14 @@
 </td>
 <td width="50%" valign="top">
 
-<div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(4px);">
-<h3 style="color: #BB9AF7; margin-top: 0;">📈 Sales Demand Forecasting & AI Supply Chain Suite</h3>
+<div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.1) 0%, rgba(137, 221, 255, 0.1) 100%); border: 1px solid #BB9AF7; border-radius: 8px; padding: 15px; backdrop-filter: blur(4px);">
+<h3 style="color: #BB9AF7; margin-top: 0; margin-bottom: 8px;">📈 Sales Demand Forecasting & AI Supply Chain Suite</h3>
 
-<ul style="color: #c0caf5; line-height: 1.8;">
-  <li><strong>About:</strong> End-to-end suite for sales demand forecasting, inventory optimization, and an AI-powered supply chain assistant.</li>
-  <li><strong>Key Features:</strong>
-    <ul>
-      <li>Sales Forecasting — Prophet-based models with promotion & oil-price regressors</li>
-      <li>Inventory Optimization — EOQ, safety stock & stockout probability</li>
-      <li>AI Chat Assistant — Multi-agent ReAct system with Text-to-SQL</li>
-      <li>Retrieval-Augmented Generation — RAG over internal docs</li>
-      <li>Anomaly Detection — Sales spikes/drops vs. baseline</li>
-      <li>Live Market Data — Real-time oil prices & weather risk</li>
-    </ul>
-  </li>
-  <li><strong>Architecture:</strong>
-    <ul>
-      <li><strong>Frontend:</strong> React + Chart.js — Interactive dashboards</li>
-      <li><strong>Backend:</strong> FastAPI + Uvicorn — REST endpoints, authentication</li>
-      <li><strong>Forecasting:</strong> Facebook Prophet</li>
-      <li><strong>AI/LLM:</strong> LangGraph/LangChain + OpenAI GPT-4o-mini</li>
-      <li><strong>Vector DB:</strong> ChromaDB for RAG</li>
-      <li><strong>Relational DB:</strong> PostgreSQL (historical sales data)</li>
-    </ul>
-  </li>
-  <li><strong>✨ Highlight:</strong> AI-powered multi-agent chat (analyst/executive/risk), real-time market integration, and advanced inventory optimization.</li>
-  <li><strong>Links:</strong>
-    <a href="https://github.com/Sudarsan-K2/Sales-Demand-Forecasting" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
-  </li>
+<ul style="color: #c0caf5; line-height: 1.6; margin-bottom: 0; padding-left: 20px;">
+  <li style="margin-bottom: 4px;"><strong>About:</strong> End-to-end supply chain platform featuring predictive modeling, inventory optimization, and an AI-driven multi-agent assistant.</li>
+  <li style="margin-bottom: 4px;"><strong>Key Features:</strong> Prophet-based sales forecasting (with external regressors), automated inventory metrics (EOQ/Safety Stock), multi-agent ReAct chat assistant with Text-to-SQL, document RAG, anomaly detection, and live market data.</li>
+  <li style="margin-bottom: 4px;"><strong>Tech Stack:</strong> React, Chart.js | FastAPI, Uvicorn | PostgreSQL, ChromaDB | Facebook Prophet, LangGraph, OpenAI GPT-4o-mini</li>
+  <li><strong>Links:</strong> <a href="https://github.com/Sudarsan-K2/Sales-Demand-Forecasting" style="color: #89DDFF; text-decoration: none; border-bottom: 1px solid #89DDFF;">Repository</a></li>
 </ul>
 </div>
 
