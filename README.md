@@ -265,7 +265,7 @@
   <a href="https://www.linkedin.com/in/sudarsank1112" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(10, 102, 194, 0.2); transition: all 0.3s ease;" />
   </a>
-  <a href="https://portfolio-sudarsan.com" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
+  <a href="https://sudarsan-k2-portfolio.vercel.app" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" style="border-radius: 8px; box-shadow: 0 4px 15px rgba(124, 58, 237, 0.2); transition: all 0.3s ease;" />
   </a>
   <a href="https://drive.google.com/file/d/1xkvwGhjazZ72EicBosQWgMdiQlPP_fzz/view?usp=drive_link" target="_blank" style="display: inline-block; margin: 10px; transition: all 0.3s ease; text-decoration: none;">
