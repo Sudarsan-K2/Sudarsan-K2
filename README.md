@@ -158,8 +158,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<div align="left" style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.15) 0%, rgba(187, 154, 247, 0.15) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
-
+<div align="left" style="background: linear-gradient(135deg, rgba(122, 162, 247, 0.15) 0%, rgba(187, 154, 247, 0.15) 100%); border: 2px solid #7AA2F7; border-radius: 12px; padding: 20px; backdrop-filter: blur(4px);">
 <h3 style="color: #7AA2F7; margin-top: 0;">🧠 Mental Health Companion Chatbot</h3>
 
 <ul style="color: #c0caf5; line-height: 1.8;">
@@ -170,25 +169,41 @@
     <a href="https://github.com/Sudarsan-K2/Mental-Health-Companion-Chatbot" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
   </li>
 </ul>
-
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(10px);">
-
-<h3 style="color: #BB9AF7; margin-top: 0;">🧠 EmpathAI</h3>
+<div align="left" style="background: linear-gradient(135deg, rgba(187, 154, 247, 0.15) 0%, rgba(137, 221, 255, 0.15) 100%); border: 2px solid #BB9AF7; border-radius: 12px; padding: 20px; backdrop-filter: blur(4px);">
+<h3 style="color: #BB9AF7; margin-top: 0;">📈 Sales Demand Forecasting & AI Supply Chain Suite</h3>
 
 <ul style="color: #c0caf5; line-height: 1.8;">
-  <li><strong>About:</strong> A privacy-first multimodal affective computing interface combining real-time local facial expression detection with Google Gemini for emotionally adaptive conversations.</li>
-  <li><strong>Stack:</strong> <code style="color: #89DDFF;">FastAPI</code> <code style="color: #89DDFF;">Python</code> <code style="color: #89DDFF;">face-api.js</code> <code style="color: #89DDFF;">JavaScript</code> <code style="color: #89DDFF;">Gemini Pro</code></li>
-  <li><strong>✨ Highlight:</strong> Local-first emotion detection with AI-powered responses—zero compromise on privacy.</li>
+  <li><strong>About:</strong> End-to-end suite for sales demand forecasting, inventory optimization, and an AI-powered supply chain assistant.</li>
+  <li><strong>Key Features:</strong>
+    <ul>
+      <li>Sales Forecasting — Prophet-based models with promotion & oil-price regressors</li>
+      <li>Inventory Optimization — EOQ, safety stock & stockout probability</li>
+      <li>AI Chat Assistant — Multi-agent ReAct system with Text-to-SQL</li>
+      <li>Retrieval-Augmented Generation — RAG over internal docs</li>
+      <li>Anomaly Detection — Sales spikes/drops vs. baseline</li>
+      <li>Live Market Data — Real-time oil prices & weather risk</li>
+    </ul>
+  </li>
+  <li><strong>Architecture:</strong>
+    <ul>
+      <li><strong>Frontend:</strong> React + Chart.js — Interactive dashboards</li>
+      <li><strong>Backend:</strong> FastAPI + Uvicorn — REST endpoints, authentication</li>
+      <li><strong>Forecasting:</strong> Facebook Prophet</li>
+      <li><strong>AI/LLM:</strong> LangGraph/LangChain + OpenAI GPT-4o-mini</li>
+      <li><strong>Vector DB:</strong> ChromaDB for RAG</li>
+      <li><strong>Relational DB:</strong> PostgreSQL (historical sales data)</li>
+    </ul>
+  </li>
+  <li><strong>✨ Highlight:</strong> AI-powered multi-agent chat (analyst/executive/risk), real-time market integration, and advanced inventory optimization.</li>
   <li><strong>Links:</strong>
-    <a href="https://github.com/Sudarsan-K2/EmpathAI" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
+    <a href="https://github.com/Sudarsan-K2/Sales-Demand-Forecasting" style="color: #89DDFF; text-decoration: none; border-bottom: 2px solid #89DDFF; transition: all 0.3s;">Repository</a>
   </li>
 </ul>
-
 </div>
 
 </td>
