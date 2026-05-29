@@ -22,7 +22,7 @@
 <p align="center">
   <em>I build modern full-stack applications and data-driven systems focused on performance, scalability, and real-world usability.</em>
   <br />
-  <strong>From responsive web experiences to optimized APIs and meaningful analytics—I ship solutions that are practical, fast, and impactful.</strong>
+  <strong>From responsive web experiences to optimized APIs and meaningful analytics,I ship solutions that are practical, fast, and impactful.</strong>
 </p>
 
 <br />
